@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.AssemblyInfo.cs
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.deps.json
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.runtimeconfig.json
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.pdb
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/refint/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.pdb
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.genruntimeconfig.cache
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/ref/CSharp Concepts.dll
