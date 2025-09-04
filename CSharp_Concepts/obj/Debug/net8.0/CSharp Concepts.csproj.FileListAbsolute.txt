@@ -1,0 +1,40 @@
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.AssemblyInfo.cs
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.deps.json
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.runtimeconfig.json
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/bin/Debug/net8.0/CSharp Concepts.pdb
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/refint/CSharp Concepts.dll
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.pdb
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/CSharp Concepts.genruntimeconfig.cache
+/workspaces/codespaces-blank/CSharp Concepts/obj/Debug/net8.0/ref/CSharp Concepts.dll
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.AssemblyInfoInputs.cache
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.AssemblyInfo.cs
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.csproj.CoreCompileInputs.cache
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.MvcApplicationPartsAssemblyInfo.cache
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.RazorAssemblyInfo.cache
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.RazorAssemblyInfo.cs
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.sourcelink.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\bin\Debug\net8.0\CSharp Concepts.exe
+D:\imocha\Codes\iMocha\CSharp_Concepts\bin\Debug\net8.0\CSharp Concepts.deps.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\bin\Debug\net8.0\CSharp Concepts.runtimeconfig.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\bin\Debug\net8.0\CSharp Concepts.dll
+D:\imocha\Codes\iMocha\CSharp_Concepts\bin\Debug\net8.0\CSharp Concepts.pdb
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets.build.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets.development.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets\msbuild.CSharp Concepts.Microsoft.AspNetCore.StaticWebAssets.props
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets\msbuild.build.CSharp Concepts.props
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CSharp Concepts.props
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CSharp Concepts.props
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\staticwebassets.pack.json
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\scopedcss\bundle\CSharp Concepts.styles.css
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.dll
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\refint\CSharp Concepts.dll
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.pdb
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\CSharp Concepts.genruntimeconfig.cache
+D:\imocha\Codes\iMocha\CSharp_Concepts\obj\Debug\net8.0\ref\CSharp Concepts.dll
